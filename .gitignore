@@ -1,0 +1,15 @@
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+functions/node_modules/
+functions/lib/
+
+.env
+.firebase/
+.firebaserc
+
+.vscode/
+.idea/
+.DS_Store
